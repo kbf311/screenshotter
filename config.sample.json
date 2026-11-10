@@ -1,0 +1,6 @@
+{
+  "interval_seconds": 5.0,
+  "save_directory": "./screenshots",
+  "quality": 80
+}
+
